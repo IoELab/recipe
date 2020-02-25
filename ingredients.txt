@@ -1,6 +1,4 @@
 2 avocados
 1 lime
 1/2 onion
-staging area
-change 2
-change 3
+1/2 onion
